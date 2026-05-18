@@ -1,0 +1,144 @@
+# =========================================
+# Build Output
+# =========================================
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+artifacts/
+
+# =========================================
+# Logs
+# =========================================
+[Ll]og/
+[Ll]ogs/
+*.log
+[Bb]uild[Ll]og.*
+TestResult.xml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# =========================================
+# Visual Studio
+# =========================================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.VC.db
+*.VC.VC.opendb
+
+# =========================================
+# VS Code
+# =========================================
+.vscode/
+
+# =========================================
+# Rider / ReSharper
+# =========================================
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+
+# =========================================
+# NuGet
+# =========================================
+packages/
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+*.nuget.props
+*.nuget.targets
+
+project.lock.json
+project.fragment.lock.json
+
+# =========================================
+# Build / Test Results
+# =========================================
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+
+# =========================================
+# Compiled Binaries
+# =========================================
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+
+# =========================================
+# Publish / Deploy
+# =========================================
+[Pp]ublish/
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+PublishScripts/
+
+# =========================================
+# SQL Server / LocalDB
+# =========================================
+*.mdf
+*.ldf
+*.ndf
+
+App_Data/*.mdf
+App_Data/*.ldf
+
+# =========================================
+# Secrets / Certificates
+# =========================================
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+secrets.json
+*.pfx
+*.snk
+
+# =========================================
+# Temporary Files
+# =========================================
+*.tmp
+*.temp
+
+# =========================================
+# OS Junk
+# =========================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================================
+# Editor Junk
+# =========================================
+*.swp
+*~
