@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Donor
+{
+    public partial class Logout : Form
+    {
+        public Logout()
+        {
+            InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void logoutbtn_Click(object sender, EventArgs e)
+        {
+            Form1 lgin = new Form1();
+            lgin.Show();
+            this.Hide();
+        }
+
+        private void cancelbtn_Click(object sender, EventArgs e)
+        {
+            Dashbord da = new Dashbord();
+            da.Show();
+            this.Hide();
+        }
+    }
+}

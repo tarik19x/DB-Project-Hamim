@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TITO\\Desktop\\Donorsltn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\usersassion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\usersassion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|c:\\users\\tito\\desktop\\donorsltn\\donor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\searchpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\searchpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\searchpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\searchpaitent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\paitentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\paitentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\paitentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\paitentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\eligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\eligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\eligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\eligibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\delete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\delete.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|C:\\Users\\TITO\\Desktop\\Donorsltn\\donor\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{003E88B8-146B-45A2-B3CA-D2B5CA4EEB7E}|Donor\\Donor.csproj|solutionrelative:donor\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Program.cs",
+              "RelativeDocumentMoniker": "Donor\\Program.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Program.cs",
+              "RelativeToolTip": "Donor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T02:47:30.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSassion.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\UserSassion.cs",
+              "RelativeDocumentMoniker": "Donor\\UserSassion.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\UserSassion.cs",
+              "RelativeToolTip": "Donor\\UserSassion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:48:51.686Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchPaitent.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\SearchPaitent.cs",
+              "RelativeDocumentMoniker": "Donor\\SearchPaitent.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\SearchPaitent.cs",
+              "RelativeToolTip": "Donor\\SearchPaitent.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:12:43.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPaitent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\SearchPaitent.cs",
+              "RelativeDocumentMoniker": "Donor\\SearchPaitent.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\SearchPaitent.cs [Design]",
+              "RelativeToolTip": "Donor\\SearchPaitent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:16:56.574Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaitentRequest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\PaitentRequest.cs",
+              "RelativeDocumentMoniker": "Donor\\PaitentRequest.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\PaitentRequest.cs [Design]",
+              "RelativeToolTip": "Donor\\PaitentRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:48:19.499Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Update.cs",
+              "RelativeDocumentMoniker": "Donor\\Update.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Update.cs [Design]",
+              "RelativeToolTip": "Donor\\Update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:16:10.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Form1.cs",
+              "RelativeDocumentMoniker": "Donor\\Form1.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Form1.cs [Design]",
+              "RelativeToolTip": "Donor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:01:36.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Registration.cs",
+              "RelativeDocumentMoniker": "Donor\\Registration.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Registration.cs [Design]",
+              "RelativeToolTip": "Donor\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:16:49.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Form1.cs",
+              "RelativeDocumentMoniker": "Donor\\Form1.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Form1.cs",
+              "RelativeToolTip": "Donor\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAMwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:31:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Donor\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Dashbord.cs [Design]*",
+              "RelativeToolTip": "Donor\\Dashbord.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:25:42.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.cs",
+              "RelativeDocumentMoniker": "Donor\\Delete.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.cs [Design]",
+              "RelativeToolTip": "Donor\\Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:18:08.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaitentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\PaitentRequest.cs",
+              "RelativeDocumentMoniker": "Donor\\PaitentRequest.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\PaitentRequest.cs",
+              "RelativeToolTip": "Donor\\PaitentRequest.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAMwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:00:50.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Registration.cs",
+              "RelativeDocumentMoniker": "Donor\\Registration.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Registration.cs",
+              "RelativeToolTip": "Donor\\Registration.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:06:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\ViewProfile.cs",
+              "RelativeDocumentMoniker": "Donor\\ViewProfile.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\ViewProfile.cs [Design]",
+              "RelativeToolTip": "Donor\\ViewProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:34:23.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashbord.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Donor\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Dashbord.cs*",
+              "RelativeToolTip": "Donor\\Dashbord.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAIAwwFQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T02:28:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewProfile.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\ViewProfile.cs",
+              "RelativeDocumentMoniker": "Donor\\ViewProfile.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\ViewProfile.cs",
+              "RelativeToolTip": "Donor\\ViewProfile.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIAywDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:34:28.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Update.cs",
+              "RelativeDocumentMoniker": "Donor\\Update.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Update.cs",
+              "RelativeToolTip": "Donor\\Update.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAMwGYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:17:38.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Home.cs",
+              "RelativeDocumentMoniker": "Donor\\Home.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Home.cs [Design]",
+              "RelativeToolTip": "Donor\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:08:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Home.cs",
+              "RelativeDocumentMoniker": "Donor\\Home.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Home.cs",
+              "RelativeToolTip": "Donor\\Home.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T02:42:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.cs",
+              "RelativeDocumentMoniker": "Donor\\Delete.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.cs",
+              "RelativeToolTip": "Donor\\Delete.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:55:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Eligibility.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Eligibility.cs",
+              "RelativeDocumentMoniker": "Donor\\Eligibility.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Eligibility.cs [Design]",
+              "RelativeToolTip": "Donor\\Eligibility.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:15:00.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Eligibility.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Eligibility.cs",
+              "RelativeDocumentMoniker": "Donor\\Eligibility.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Eligibility.cs",
+              "RelativeToolTip": "Donor\\Eligibility.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T19:52:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.Designer.cs",
+              "RelativeDocumentMoniker": "Donor\\Delete.Designer.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Delete.Designer.cs",
+              "RelativeToolTip": "Donor\\Delete.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:46:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Logout.cs",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Logout.cs",
+              "RelativeDocumentMoniker": "Donor\\Logout.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Logout.cs",
+              "RelativeToolTip": "Donor\\Logout.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:59:59.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Logout.cs",
+              "RelativeDocumentMoniker": "Donor\\Logout.cs",
+              "ToolTip": "C:\\Users\\TITO\\Desktop\\Donorsltn\\Donor\\Logout.cs [Design]",
+              "RelativeToolTip": "Donor\\Logout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:01:46.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
